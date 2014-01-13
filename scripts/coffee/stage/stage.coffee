@@ -1,1 +1,2 @@
-console.log 'hello'
+require './stage/1'
+
