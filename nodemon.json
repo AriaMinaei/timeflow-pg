@@ -1,0 +1,6 @@
+{
+	"verbose": false,
+	"watch": [
+		"node_modules/timeflow/scripts/coffee/lib"
+	]
+}

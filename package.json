@@ -1,0 +1,26 @@
+{
+  "name": "timeflow-pg",
+  "private": true,
+  "version": "0.0.0",
+  "description": "(work in progress)",
+  "main": "scripts/js/lib/TimeFlow.js",
+  "scripts": {
+    "prepublish": "node ./node_modules/coffee-script/bin/cake build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dummy.git"
+  },
+  "keywords": [],
+  "author": "Aria Minaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://dummy"
+  },
+  "dependencies": {
+    "timeflow": "*"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
