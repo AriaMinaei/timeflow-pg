@@ -1,2 +1,2 @@
-require './stage/1'
+require './1'
 
